@@ -1,0 +1,24 @@
+
+/* 무엇을 도와드릴까요? */
+.help{
+    height:350px;
+    width:auto;
+    margin: auto;
+    background:#0437F2;
+    text-align: center; /* 가로 정렬 */
+    padding: 110px 0; /* 세로 정렬 */
+    color: white;
+
+}
+
+.footer{
+    height:auto;
+    width:auto;
+    margin: auto;
+    background: #f3f4f6;
+    text-align:left; /* 가로 정렬 */
+    /* padding: 140px 0; */ /* 세로 정렬 */
+    color: #5a646e;
+    padding-top: 4px;
+
+}
